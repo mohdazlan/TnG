@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="TnG">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/admin" source-path="/src/main/webapp/admin"/>
+                
+        <property name="context-root" value="TnG"/>
+                
+        <property name="java-output-path" value="/TnG/build/classes"/>
+            
+    </wb-module>
+    
+</project-modules>
